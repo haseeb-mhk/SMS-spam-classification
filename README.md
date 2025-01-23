@@ -47,7 +47,7 @@ The dataset is processed to ensure proper formatting and cleanliness before trai
 ---
 
 ## Results
-- **Accuracy:** Achieved an accuracy of approximately **[insert accuracy]%** on the test set.
+- **Accuracy:** Achieved an accuracy of approximately **99.19%** on the test set.
 - The confusion matrix and classification report further confirmed the model's reliability in distinguishing between spam and ham messages.
 
 ---
